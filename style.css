@@ -148,7 +148,7 @@ nav ul li a:hover
     padding: 20px;
     background: var(--dark-blue);
     border-radius: 5px;
-    width: 30%;
+    width: 50%;
     position: relative;
     transition: all 5s ease-in-out;
 }
@@ -220,8 +220,8 @@ nav ul li a:hover
 .pesan
 {
     background-color: var(--green);
-    padding: 5%;
-    border-radius: 10px;
+    padding: 1%;
+    border-radius: 30px;
 }
 
 .pesan:hover
