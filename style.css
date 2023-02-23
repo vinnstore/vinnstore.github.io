@@ -148,7 +148,7 @@ nav ul li a:hover
     padding: 20px;
     background: var(--dark-blue);
     border-radius: 5px;
-    width: 50%;
+    width: 80%;
     position: relative;
     transition: all 5s ease-in-out;
 }
